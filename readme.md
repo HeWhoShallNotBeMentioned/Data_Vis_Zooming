@@ -15,7 +15,7 @@ Point your browser to the index page and the results should come up.
 
 ## Known Bugs
 
-None that I am aware of.
+None that I am aware of. Documentation that I am following is for static charts. I am trying to figure out how to do this for dynamic data sets.
 
 ## Support and contact details
 
