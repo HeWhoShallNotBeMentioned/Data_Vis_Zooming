@@ -1,12 +1,12 @@
-# _Data_Vis_Choose_Mult_Data_Sets_
+# _Data_Vis_Zooming_
 
-#### _{Line chart with up to 6 lines, with one for each data set.}, {4/6/2016}_
+#### _{Line chart that can be zoomed in upon.}, {5/26/2016}_
 
 #### By _**{Chris Underwood}**_
 
 ## Description
 
-_{Static chart that shows the relationship between CO2 in the atmosphere and the rise in global temps. Data is stored in a series of arrays in the script. Adapted in part from Data Visualization with JavaScript by Stephen A. Thomas}_
+_{Static chart that shows 6 data sets that of economic growth. Users can zoom in on each dataset. Data is stored in a series of arrays in the script. Adapted in part from Data Visualization with JavaScript by Stephen A. Thomas}_
 
 ## Setup/Installation Requirements
 Download the files.
@@ -24,6 +24,7 @@ contact me at cunderwoodmn at gmail dot com.
 ## Technologies Used
 
 Uses the flot javascript library. http://www.flotcharts.org
+cdnjs for hosting JavaScript files.
 HTML5
 CSS
 JavaScript
